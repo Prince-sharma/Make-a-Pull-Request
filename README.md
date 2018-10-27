@@ -1,16 +1,3 @@
----
-layout: post
-title: Hacktoberfest 2018
-subtitle: Here's a quick way you ca get a free Hacktoberfest t-shirt 
-gh-repo: Prince-sharma/Make-a-Pull-Request
-gh-badge: [star, fork, follow]
-tags: [Hacktoberfest, DigitalOcean, GitHub]
-image: https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png
-
-# ![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png)
-
----
-
 # Make-a-Pull-Request
 
 
