@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [Hacktoberfest, DigitalOcean, GitHub]
 image: /assets/images/hacktoberfest/hacktoberfest_logo.png
 
-# ![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png "Logo Title Text 1")
+# ![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png)
 
 ---
 
