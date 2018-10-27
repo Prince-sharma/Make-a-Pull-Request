@@ -5,7 +5,7 @@ subtitle: Here's a quick way you ca get a free Hacktoberfest t-shirt
 gh-repo: Prince-sharma/Make-a-Pull-Request
 gh-badge: [star, fork, follow]
 tags: [Hacktoberfest, DigitalOcean, GitHub]
-image: /assets/images/hacktoberfest/hacktoberfest_logo.png
+image: https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png
 
 # ![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png)
 
@@ -14,7 +14,7 @@ image: /assets/images/hacktoberfest/hacktoberfest_logo.png
 # Make-a-Pull-Request
 
 
-![hacktoberfest logo](/assets/images/hacktoberfest/hacktober-transparent.png "Logo Title Text 1")
+![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png "Logo Title Text 1")
 
 Every October, Digital Ocean and GitHub ship out free Hacktoberfest shirts to thousands of people around the world.
 Yet many of us miss out this opportunity either because we are too busy to care or just out of ignorance.
