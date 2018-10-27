@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [Hacktoberfest, DigitalOcean, GitHub]
 image: /assets/images/hacktoberfest/hacktoberfest_logo.png
 
-# ![hacktoberfest logo](/assets/images/hacktoberfest/Hacktoberfest-mac.png "Logo Title Text 1")
+# ![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/hacktober-transparent.png "Logo Title Text 1")
 
 ---
 
@@ -50,6 +50,6 @@ Once you know the basics of git and GitHub and how to make a pull request, you c
 
 That’s it you are done cheers.
 
-![hacktoberfest logo](/assets/images/hacktoberfest/Hacktoberfest-mac.png "Logo Title Text 1")
+![hacktoberfest logo](https://github.com/Prince-sharma/prince-sharma.github.io/blob/master/assets/images/hacktoberfest/Hacktoberfest-mac.png "Logo Title Text 1")
  
 
